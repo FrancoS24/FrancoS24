@@ -24,7 +24,8 @@ I'm a Full Stack Web Developer. A proactive, enthisiatic and motivated person wi
 - 😄 Pronouns: Franklin
 <hr>
 
-<h2>📫How to contact me:</h2>
+<h1>📫How to contact me:</h1>
+
 - Gmail: francoscode@gmail.com
 - Linkedin: linkedin.com/in/francoscuro
 

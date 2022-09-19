@@ -4,8 +4,6 @@
 I'm an proactive, enthusiastic and motivated Fullstack developer with great capacity and love for teamwork and problem solving. 
 Which is in constantly personal and professional growth.
 
-<img height="400cm" weight="3000cm" src="https://media.istockphoto.com/photos/detail-of-a-laptop-keyboard-picture-id1198515525?b=1&k=20&m=1198515525&s=170667a&w=0&h=1t0fpw4rvaKSiZbClY4zjiDo84F418BEEkwKMf2pUuI=">
-
 <hr>
 
 <h1> SKILLS AND TOOLS </h1>

@@ -3,7 +3,7 @@
 I'm a Full Stack Web Developer. A proactive, enthisiatic and motivated person with great capacity and love for teamwork and problem solving. 
 Which is in constantly personal and professional growth.
 
-<img height="180cm" weight="350cm" src="https://media.istockphoto.com/photos/detail-of-a-laptop-keyboard-picture-id1198515525?b=1&k=20&m=1198515525&s=170667a&w=0&h=1t0fpw4rvaKSiZbClY4zjiDo84F418BEEkwKMf2pUuI=">
+<img height="300cm" weight="800cm" src="https://media.istockphoto.com/photos/detail-of-a-laptop-keyboard-picture-id1198515525?b=1&k=20&m=1198515525&s=170667a&w=0&h=1t0fpw4rvaKSiZbClY4zjiDo84F418BEEkwKMf2pUuI=">
 
 <hr>
 
@@ -20,9 +20,9 @@ Which is in constantly personal and professional growth.
 </div> 
 
 <hr>
-<h2>🌱 I’m currently learning React Native</h2>
+🌱 I’m currently learning React Native
 <hr>
-<h2>😄 Pronouns: Franklin</h2>
+😄 Pronouns: Franklin
 <hr>
 
 <h1>📨📫 How to contact me:</h1>

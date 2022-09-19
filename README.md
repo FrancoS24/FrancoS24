@@ -26,7 +26,7 @@ Which is in constantly personal and professional growth.
 😄 Pronouns: Franklin
 <hr>
 
-<h1>How to contact me 📧</h1>
+<h1>How to contact me🌐</h1>
 
 - Gmail: francoscode@gmail.com
 - Linkedin: https://www.linkedin.com/in/francoscuro

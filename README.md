@@ -27,7 +27,7 @@ I'm a Full Stack Web Developer. A proactive, enthisiatic and motivated person wi
 <h1>📫How to contact me:</h1>
 
 - Gmail: francoscode@gmail.com
-- Linkedin: linkedin.com/in/francoscuro
+- Linkedin: https://www.linkedin.com/in/francoscuro
 
 
 <!--

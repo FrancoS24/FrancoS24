@@ -2,6 +2,7 @@
 <h2>Full Stack Web Developer💻</h2>
 
 I'm an proactive, enthusiastic and motivated Fullstack developer with great capacity and love for teamwork and problem solving. 
+
 Which is in constantly personal and professional growth.
 
 <hr>

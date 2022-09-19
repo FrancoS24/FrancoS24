@@ -1,5 +1,5 @@
 <h1>Hi there!👋 My name is Franco Scuro</h1>
-<h2>Full Stack Web Developer💻</h2>
+<h2>💻 Full Stack Web Developer💻</h2>
 
 I'm a Full Stack Web Developer. A proactive, enthisiatic and motivated person with great capacity and love for teamwork and problem solving. 
 Which is in constantly personal and professional growth.
@@ -26,7 +26,7 @@ Which is in constantly personal and professional growth.
 😄 Pronouns: Franklin
 <hr>
 
-<h1>📧🌐 How to contact me:</h1>
+<h1>📧 How to contact me:</h1>
 
 - Gmail: francoscode@gmail.com
 - Linkedin: https://www.linkedin.com/in/francoscuro

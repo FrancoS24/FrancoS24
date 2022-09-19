@@ -1,4 +1,33 @@
-### Hi there 👋
+<h1>Hi there!👋 My name is Franco Scuro👋</h1>
+
+I'm a Full Stack Web Developer. A proactive, enthisiatic and motivated person with great capacity and love for teamwork and problem solving. Which is in constantly personal and professional growth.
+
+![This is an image](https://cdn-media-1.freecodecamp.org/images/Css3cm3OqXWd5Ty2SEQ2YYPLrbjQjOivRN8i)
+
+<hr>
+
+<h1> SKILLS AND TOOLS </h1>
+
+<div style = "display: inline-block"><br>
+    <img align:"center" alt="ignacio_html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+    <img align:"center" alt="ignacio_css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+    <img align:"center" alt="ignacio_js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align:"center" alt="ignacio_tailw" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    <img align:"center" alt="ignacio_react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
+    <img align:"center" alt="ignacio_node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img align:"center" alt="ignacio_postg" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+</div> 
+
+<hr>
+- 🌱 I’m currently learning React Native
+<hr>
+- 😄 Pronouns: Franklin
+<hr>
+
+<h2>📫How to contact me:</h2>
+- Gmail: francoscode@gmail.com
+- Linkedin: linkedin.com/in/francoscuro
+
 
 <!--
 **FrancoS24/FrancoS24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,5 @@
 <h1>Hi there!👋 My name is Franco Scuro</h1>
+<hr>
 <h2>Full Stack Web Developer💻</h2>
 
 I'm an proactive, enthusiastic and motivated Fullstack developer with great capacity and love for teamwork and problem solving. 
